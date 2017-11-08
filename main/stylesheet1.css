@@ -14,18 +14,6 @@ h1 {
 	font-family: "Times New Roman", Times, serif;
 }
 
-.header img {
-  float: right;
-  width: 100px;
-  height: 100px;
-  background: #555;
-}
-
-.header h1 {
-  position: relative;
-  top: 18px;
-  left: 12px;
-}
 p {
 	color: black;
 	background: white;

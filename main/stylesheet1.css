@@ -8,14 +8,14 @@ body {
 h1 {
 	color: black;
 	background: #b38600 100%;
-	border: solid linear-gradient(to bottom,#b38600 100%) 15px;
+ 	border: solid #b38600 15px;
 	text-align: left;
 	font-size: 50px;
 	font-family: fantasy;
 }
 h2 {
 	color: black;
-	background: linear-gradient(to bottom, #b38600 100%)
+	background: #b38600
 }
 h3 {
 	text-align: center;

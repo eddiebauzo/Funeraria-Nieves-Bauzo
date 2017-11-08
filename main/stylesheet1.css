@@ -24,10 +24,7 @@ p {
 	font: 20px/1.5 courier;
 	border: solid black;
 }
-img {
-	background: solid white center;
-	opacity: 0.3;
-}
+
 #footer-info {
 	background: linear-gradient(to bottom, #66ff33 0%, #666633 100%) center;
 	color: white;

@@ -17,15 +17,6 @@ h1.logo a, h1.logo a:hover {
     text-shadow: #909090 1px 1px 2px;
     text-decoration: none;
 }
-img.icon {
-    line-height: 100%;
-    color: #656735;
-    font-size: 20px;
-    position: absolute;
-    z-index: 80;
-    left: 10px;
-    top: 10px;
-}
 
 p {
 	color: black;

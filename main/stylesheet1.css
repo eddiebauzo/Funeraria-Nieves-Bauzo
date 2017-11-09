@@ -8,11 +8,19 @@ body {
 h1 {
 	color: black;
 	background: #E6E6E6;
- 	border: #E6E6E6 35px;  
-    	border-style: groove;
+ 	border: none;
 	text-align: left;
 	font-size: 50px;
 	font-family: "Times New Roman", Times, serif;
+}
+img.icon {
+    line-height: 110%;
+    color: #656735;
+    font-size: 30px;
+    position: absolute;
+    z-index: 110;
+    left: 20px;
+    top: 20px;
 }
 
 p {

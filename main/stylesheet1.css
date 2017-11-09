@@ -21,7 +21,7 @@ h1 {
 	height : 113px;
 	margin : 0;
 	padding : 0;
-	background : url(eye of horus.jpg) no-repeat 0 0;
+	background : url("eye of horus.jpg") no-repeat 0 0;
 }
  
 h1 a {

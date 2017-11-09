@@ -8,10 +8,10 @@ body {
 h1 {
 	color: black;
 	background: #E6E6E6;
- 	border: solid #E6E6E6 35px;
+ 	border: #E6E6E6 35px;
     	border-width:5px;  
     	border-style:inset;
-	text-align: center;
+	text-align: left;
 	font-size: 50px;
 	font-family: "Times New Roman", Times, serif;
 }

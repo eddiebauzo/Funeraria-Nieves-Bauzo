@@ -1,9 +1,9 @@
 body {
 	color: black;
-	background: #58606d;
+	background: white;
 	text-align: center;
 	font-size: 20px;
-	font-family: fantasy;
+	font-family: "Times New Roman", Times, serif;
 }
 h1 {
 	color: black;
@@ -40,7 +40,7 @@ ul.topnav li {float: left;}
 
 ul.topnav li a {
     display: block;
-    color: blue;
+    color: black;
     text-align: center;
     padding: 22px 22px;
     text-decoration: none;

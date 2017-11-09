@@ -5,13 +5,17 @@ body {
 	font-size: 20px;
 	font-family: "Times New Roman", Times, serif;
 }
-h1 {
-	color: black;
-	background: #E6E6E6;
- 	border: none;
-	text-align: left;
-	font-size: 50px;
-	font-family: "Times New Roman", Times, serif;
+h1.logo a, h1.logo a:hover {
+    line-height: 110%;
+    color: #656735;
+    font-size: 30px;
+    position: absolute;
+    z-index: 100;
+    left: 90px;
+    top: 55px;
+    text-transform: uppercase;
+    text-shadow: #909090 1px 1px 2px;
+    text-decoration: none;
 }
 img.icon {
     line-height: 110%;

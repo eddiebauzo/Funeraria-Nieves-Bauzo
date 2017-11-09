@@ -9,7 +9,7 @@ h1.logo a, h1.logo a:hover {
     line-height: 110%;
     color: #656735;
     font-size: 30px;
-    position: absolute;
+    position: relative;
     z-index: 100;
     left: 90px;
     top: 55px;

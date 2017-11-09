@@ -8,8 +8,7 @@ body {
 h1 {
 	color: black;
 	background: #E6E6E6;
- 	border: #E6E6E6 35px;
-    	border-width:5px;  
+ 	border: #E6E6E6 35px;  
     	border-style:inset;
 	text-align: left;
 	font-size: 50px;

@@ -15,7 +15,7 @@ h1 {
     font-style: "Times New Roman", Times, serif;
     text-align: center;
     letter-spacing: 0.5em;
-    box-shadow: inset 10px 10px 10px 15px; 
+    -webkit-box-shadow: 10px 10px 5px; 
 }
 
 p {

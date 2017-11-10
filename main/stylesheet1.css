@@ -5,7 +5,20 @@ body {
 	font-size: 20px;
 	font-family: "Times New Roman", Times, serif;
 }
-
+h1 {
+    color: #ffc;
+    background-color: #900;
+    font-size: 2em;
+    margin: 0;
+    margin-bottom: 7px;
+    padding: 4px;
+    font-style: italic;
+    text-align: center;
+    letter-spacing: 0.5em;
+    border-bottom-style: solid;
+    border-bottom-width: 0.5em;
+    border-bottom-color: #c00;
+}
 
 p {
 	color: black;

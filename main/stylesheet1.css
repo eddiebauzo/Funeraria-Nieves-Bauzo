@@ -11,11 +11,11 @@ h1 {
     font-size: 2em;
     margin: 0;
     margin-bottom: 15px;
-    padding: 9px;
+    padding: 12px;
     font-style: "Times New Roman", Times, serif;
     text-align: center;
     letter-spacing: 0.5em;
-    box-shadow: inset 10px 10px 10px 5px; 
+    box-shadow: inset 10px 10px 10px 15px; 
 }
 
 p {

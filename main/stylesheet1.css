@@ -6,14 +6,13 @@ body {
 	font-family: "Times New Roman", Times, serif;
 }
 h1 {
-    color: #ececfe;
-    background-color: #b4b4ff;
+    color: #b4b4ff;
+    background-color: black;
     font-size: 2em;
     margin: 0;
     margin-bottom: 15px;
     padding: 12px;
-    font-style: "Times New Roman", Times, serif;
-    font-shadow: 2px 2px 2px #b4b4ff;	
+    font-style: "Times New Roman", Times, serif;	
     text-align: center;
     letter-spacing: 0.5em;
     -webkit-box-shadow: 10px 10px 5px; 

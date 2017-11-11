@@ -6,13 +6,12 @@ body {
 	font-family: "Times New Roman", Times, serif;
 }
 h1 {
-    color: white;
-    background-color: black;
+    color: black;
+    background-color: white;
     font-size: 2em;   
     position: static;
     z-index : 1;	
     margin: 15;
-    padding: 12px;
     font-style: "Times New Roman", Times, serif;	
     text-align: center;
     letter-spacing: 0;

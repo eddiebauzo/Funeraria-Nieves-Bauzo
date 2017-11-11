@@ -9,9 +9,9 @@ h1 {
     color: white;
     background-color: black;
     font-size: 2em;
-    width   : 1000px;
-    height  : 500px;   
-    position: relative;
+    width   : 100px;
+    height  : 100px;   
+    position: static;
     z-index : 1;	
     margin: 15;
     padding: 12px;

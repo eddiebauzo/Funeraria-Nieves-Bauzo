@@ -35,7 +35,7 @@ h1 {
 	border: solid black;
 }
 
-#footer-info {
+.footer-info {
 	background: linear-gradient(to bottom, #24292e 0%, #24292e 100%);
 	color: white;
 	border: 4px linear-gradient(to bottom, #24292e 0%, #24292e 100%) solid;

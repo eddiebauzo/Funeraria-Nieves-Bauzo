@@ -22,6 +22,7 @@ h1 {
     position: static;
     z-index : 1;	
     margin: 15;
+    border: 50px 50px 50px solid white;
     font-style: "Times New Roman", Times, serif;	
     text-align: left;
     letter-spacing: 0;

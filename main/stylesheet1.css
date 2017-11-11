@@ -4,6 +4,7 @@
     padding-bottom: 12px;
     color: rgba(255, 255, 255, 0.75);
     background-color: #24292e;
+    border: 50px 50px 50px solid white;
 }
 
 body {
@@ -19,7 +20,6 @@ h1 {
     background-color: #24292e;
     font-size: 2em;   
     position: static;
-    border: 50px 50px 50px solid white;
     z-index : 1;	
     margin: 15;
     font-style: "Times New Roman", Times, serif;	

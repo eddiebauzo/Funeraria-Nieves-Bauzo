@@ -19,6 +19,7 @@ h1 {
     background-color: #24292e;
     font-size: 2em;   
     position: static;
+    border: 50px 50px 50px solid white;
     z-index : 1;	
     margin: 15;
     font-style: "Times New Roman", Times, serif;	
@@ -30,7 +31,7 @@ h1 {
 .experiencia {
 	color: black;
 	background: white;
-	font: 20px/1.5 courier;
+	font: 20px/1.5 "Times New Roman", Times, serif;
 	border: solid black;
 }
 

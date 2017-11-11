@@ -36,9 +36,9 @@ h1 {
 }
 
 #footer-info {
-	background: linear-gradient #24292e center;
+	background: #24292e center;
 	color: white;
-	border: 4px linear-gradient(to bottom, #66ff33 0%, #666633 100%) solid;
+	border: 4px linear-gradient(to bottom, #24292e 0%, #24292e 100%) solid;
 }
 /* Add a gray right border to all list items, except the last item (last-child) */
 

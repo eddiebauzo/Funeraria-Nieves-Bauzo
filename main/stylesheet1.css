@@ -27,15 +27,6 @@ h1 {
     -webkit-box-shadow: 10px 10px 5px; 
 }
 
-img.resize {
-    width: 25%; 
-    height: 25%;
-}
-
-img {
-	float: left;
-}
-
 .experiencia {
 	color: black;
 	background: white;

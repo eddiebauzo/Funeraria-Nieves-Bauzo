@@ -30,7 +30,10 @@ h1 {
 
 img {
     width: 100%;
-    height: auto;
+    height: 400px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    border: 1px solid red;
 }
 
 .experiencia {
